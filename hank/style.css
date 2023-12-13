@@ -1,0 +1,10 @@
+p{color: blue}
+img{width:200px;height: auto}
+
+h1{color: #9999ff}
+li{color: brown}
+
+.container{
+    background-color:#99DD00;
+    width:800px;
+    margin:0 auto;}
