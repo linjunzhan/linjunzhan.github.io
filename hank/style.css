@@ -1,10 +1,35 @@
-p{color: blue}
-img{width:200px;height: auto}
+p {
+    color:aliceblue;
+     width: 100%;    
+        
+  }
 
-h1{color: #9999ff}
-li{color: brown}
+img {
+    width: 200px; height: auto;
+    border-radius:200px;
+    
+        
+    }
 
-.container{
-    background-color:#99DD00;
-    width:800px;
-    margin:0 auto;}
+h1 {
+    color: #9999ff
+   }
+
+li {
+    color: brown
+   }
+
+.container {
+/*    background-color: #99DD00;*/
+    background-image: url(hanklin_files/back.jpg);
+    background-size: auto ;
+    background-repeat: no-repeat;    
+    width: 100%; margin: 0 auto;
+/*    width: 100%;height: auto;*/
+}
+    
+
+/*p{background-image: url(hanklin_files/back.jpg)*/
+/*    width: 700px; margin: 0 auto;*/
+/*}*/
+
