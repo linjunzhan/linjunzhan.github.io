@@ -1,35 +1,29 @@
 p {
-    color:aliceblue;
-     width: 100%;    
-        
-  }
+    width: 800px;
+    /*    width: 100%;height: auto;*/
+
+}
 
 img {
-    width: 200px; height: auto;
-    border-radius:200px;
-    
-        
-    }
+    width: 200px;
+    height: auto;
+    border-radius: 200px;
 
-h1 {
-    color: #9999ff
-   }
+
+}
+
 
 li {
     color: brown
-   }
+}
 
 .container {
-/*    background-color: #99DD00;*/
-    background-image: url(hanklin_files/back.jpg);
-    background-size: auto ;
-    background-repeat: no-repeat;    
-    width: 100%; margin: 0 auto;
-/*    width: 100%;height: auto;*/
+   
+    background-image: url(hanklin_files/pyoa.jpg);
+    background-size: 800px;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Noto Sans SC', sans-serif;
+
 }
-    
-
-/*p{background-image: url(hanklin_files/back.jpg)*/
-/*    width: 700px; margin: 0 auto;*/
-/*}*/
-
