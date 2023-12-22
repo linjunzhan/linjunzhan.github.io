@@ -23,7 +23,7 @@
 //document.writeln(msg);
 
 
-var mag = ab(4);
+var mag = ab(8);
 
 function ab(x) {
     if (x > 10) return "我就結婚";
