@@ -1,6 +1,7 @@
 p {
     width: 800px;
-    /*    width: 100%;height: auto;*/
+    width: 100%;
+    height: auto;
 
 }
 
@@ -18,7 +19,7 @@ li {
 }
 
 .container {
-   
+
     background-image: url(hanklin_files/pyoa.jpg);
     background-size: 800px;
     background-repeat: no-repeat;
@@ -27,4 +28,15 @@ li {
     font-family: 'Noto Sans SC', sans-serif;
 
 }
-dt{font-weight:bold;}
+
+dt {
+    width: 50px;
+
+    font-weight: bold;
+}
+
+dd {
+    position: relative;
+    top: -18px;
+    left: 70px;
+}
