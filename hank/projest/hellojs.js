@@ -31,9 +31,8 @@ function getmerry(monny = "輸入金額") {
     else return "那就算了"
 }
 
-var gg = getmerry(10);
+var gg = getmerry(10);//if else 用法
 //console.log(gg);
-
 
 
 function ooo(os, oe) {
@@ -43,8 +42,6 @@ function ooo(os, oe) {
         }
     }
 } //偶數判別方式
-
-
 
 
 function jjj(js, je) {
@@ -76,10 +73,10 @@ function jjj(js, je) {
 //}
 
 
-function showMsg(username){
-    console.log('HI + 'username' +,wlcome to my js function');
-}
-showMsg(username);
+//function showMsg(username){
+//    console.log('HI + 'username' +,wlcome to my js function');
+//}
+//showMsg(username);///未完成
 
 
 
